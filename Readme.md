@@ -3,7 +3,7 @@
 Аналитик данных с техническим бэкграундом в нефтегазовой отрасли, решаю бизнес-задачи с помощью анализа данных, SQL, Python и визуализации в Yandex DataLens.
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram)](https://t.me/karimovaei) 
-[![Email](https://img.shields.io/badge/-Email-8B89CC?style=flat&logo=mail.ru&logoColor=white)](mailto:karimovaell@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-8B89CC?style=flat&logo=mail.ru&logoColor=white)](mailto:EllaEage@yandex.ru)
 
 ---
 
