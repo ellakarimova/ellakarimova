@@ -1,5 +1,5 @@
 # Привет, меня зовут Эльвира!
-**Аналитик данных | Data Engineer | Data Scientist**  
+**Аналитик данных | Data Analyst**  
 Аналитик данных с техническим бэкграундом в нефтегазовой отрасли, решаю бизнес-задачи с помощью анализа данных, SQL, Python и визуализации в Yandex DataLens.
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram)](https://t.me/karimovaei) 
